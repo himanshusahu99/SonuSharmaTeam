@@ -1,0 +1,67 @@
+.card-img:hover
+{
+    opacity: 0.7;
+}
+
+
+a
+{
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+  color:black;
+}
+
+
+.card-container
+{
+   
+    transition-duration: 0.2s;
+    padding: 10px;;
+    
+
+}
+.card-container:hover
+{
+    transform: scale(1.04);
+    transition-duration: 0.2s;
+
+}
+
+.footer-my
+{
+    
+    background-color: red;
+    margin-top: 100px;
+    margin-left: 0px;
+    margin-right: 0px;;
+    padding:0px;
+}
+
+.leaders-photo-row
+{
+    margin: 100px;;
+   
+    
+    
+}
+
+
+    .circle {
+  border-radius: 50%;
+  width: 200px;
+  height: 200px; 
+  background-color: grey;;
+  background-image: url(b.jpeg);
+  margin-top: 10px;
+  /* width and height can be anything, as long as they're equal */
+}
+
+
+
+
+
+/* selected link */
+
